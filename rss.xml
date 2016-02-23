@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Janez Pristavec]]></title>
         <description><![CDATA[Janez Pristavec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/janez-pristavec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 11:07:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 11:09:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/janez-pristavec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Janez Pristavev // thegrid start]]></title>
-            <description><![CDATA[<article><h1>Janez Pristavev // thegrid start</h1><p>Janez Pristavec, late slovenian painter // thegrid presentation</p></article>]]></description>
-            <link>undefinedjanez-pristavev-thegrid-start/index.html</link>
+            <title><![CDATA[Janez Pristavec // thegrid start]]></title>
+            <description><![CDATA[<article><h1>Janez Pristavec // thegrid start</h1><p>Janez Pristavec, late slovenian painter // thegrid presentation</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a411b5-4624-4952-bfef-fd5052319efd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/janez-pristavec/janez-pristavev-thegrid-start/index.html</link>
             <guid isPermaLink="false">4e4ef5f4-eb9f-4415-8811-bd575b24cf48</guid>
-            <pubDate>Tue, 23 Feb 2016 11:07:34 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 11:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
