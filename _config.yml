@@ -1,0 +1,28 @@
+name: Janez Pristavec
+favicon: null
+layout_spectrum: 0.6843853490427136
+typography_spectrum: 0.6196841753553599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5062943282537162
+  lightness: 0.5482064981479198
+  saturation: 0.445716995280236
+  rhythmicContrast: 0.5975870902184397
+purpose: []
